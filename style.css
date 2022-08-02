@@ -1,0 +1,12 @@
+#heading{
+    width: 100%;
+    text-align: left;
+}
+#instructions{
+    float: right;
+}
+h4{
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+}
